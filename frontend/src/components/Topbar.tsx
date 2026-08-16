@@ -53,17 +53,7 @@ export const Topbar: React.FC<TopbarProps> = ({
             <span className="font-black tracking-wide text-lg bg-gradient-to-r from-white via-[#e2d1f7] to-[#bc6ff1] bg-clip-text text-transparent">
               SYSTEM SCRIBE
             </span>
-            <span className="ml-2 text-[10px] uppercase font-mono px-1.5 py-0.5 rounded bg-[#892cdc]/20 text-[#bc6ff1] border border-[#892cdc]/30">
-              SIH SA-S03
-            </span>
           </div>
-        </div>
-
-        <div className="hidden md:flex items-center gap-2 ml-6 px-3 py-1 rounded-full bg-[#160b24] border border-[#892cdc]/20 text-xs text-gray-300">
-          <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-          <span className="font-mono text-emerald-400 font-medium">Demo AI Mode Active</span>
-          <span className="text-gray-500">|</span>
-          <span className="text-gray-400">Multi-Agent Core v3.2</span>
         </div>
       </div>
 

@@ -65,10 +65,9 @@ export function App() {
   if (!inApp) {
     return (
       <LandingPage
-        onExplore={() => setInApp(true)}
-        onViewDemo={() => {
+        onLogin={(email) => {
+          handleSwitchUser(email);
           setInApp(true);
-          setCurrentTab('applications');
         }}
       />
     );

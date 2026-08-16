@@ -72,16 +72,6 @@ export const Sidebar: React.FC<SidebarProps> = ({ currentTab, onSelectTab, userR
         })}
       </div>
 
-      {/* Institutional Banner Footer */}
-      <div className="px-3 py-3 rounded-xl bg-gradient-to-br from-[#140824] to-[#0a0412] border border-[#892cdc]/20 mt-6">
-        <div className="flex items-center gap-2 mb-1">
-          <FolderTree className="w-4 h-4 text-[#bc6ff1]" />
-          <span className="text-xs font-semibold text-gray-200">IITS Domain</span>
-        </div>
-        <p className="text-[10px] text-gray-400 leading-tight">
-          Smart India Hackathon SA-S03 Enterprise Prototype
-        </p>
-      </div>
     </aside>
   );
 };
