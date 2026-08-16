@@ -104,4 +104,4 @@ npm run dev
 ## 📜 License & Hackathon Info
 
 Developed for **Smart India Hackathon (SIH) Problem Statement SA-S03**.
-Created by team **System Scribe**.
+Created by team **SOLVE_X**.
