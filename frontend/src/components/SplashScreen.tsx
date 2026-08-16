@@ -9,7 +9,7 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
   const [stage, setStage] = useState(0);
 
   const stages = [
-    'PROCESS FORGE',
+    'SYSTEM SCRIBE',
     'Initializing Institutional Intelligence...',
     'Loading Multi-Agent Core Engine...',
     'Loading Workflow Predictive Analytics...',
@@ -50,7 +50,7 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
 
         {/* Title */}
         <h1 className="text-3xl font-extrabold tracking-wider bg-gradient-to-r from-white via-[#e2d1f7] to-[#bc6ff1] bg-clip-text text-transparent mb-2">
-          PROCESS FORGE
+          SYSTEM SCRIBE
         </h1>
         <p className="text-xs uppercase tracking-widest text-[#bc6ff1] font-semibold mb-8">
           AI-Powered Workflow Orchestration

@@ -1,10 +1,10 @@
-# PROCESS FORGE ⚡
+# SYSTEM SCRIBE ⚡
 
 ### AI-Powered Intelligent Workflow Orchestration Platform
 
 > **Build. Execute. Predict. Optimize.**
 
-Process Forge is a serious enterprise-grade AI-powered workflow intelligence platform designed for the Smart India Hackathon problem statement **SA-S03 (Automated Workflow Management Platform Software)**. It transforms fragmented administrative processes into predictive, explainable, and continuously self-improving workflows for educational and government institutions.
+System Scribe is a serious enterprise-grade AI-powered workflow intelligence platform designed for the Smart India Hackathon problem statement **SA-S03 (Automated Workflow Management Platform Software)**. It transforms fragmented administrative processes into predictive, explainable, and continuously self-improving workflows for educational and government institutions.
 
 ---
 
@@ -13,10 +13,10 @@ Process Forge is a serious enterprise-grade AI-powered workflow intelligence pla
 Traditional workflow systems:
 > **Build → Execute → Monitor**
 
-Process Forge:
+System Scribe:
 > **Understand → Build → Simulate → Execute → Predict → Explain → Learn → Optimize**
 
-> *"Process Forge doesn't just automate workflows. It understands them, predicts where they will fail, coordinates the people and AI agents involved, and continuously improves them over time."*
+> *"System Scribe doesn't just automate workflows. It understands them, predicts where they will fail, coordinates the people and AI agents involved, and continuously improves them over time."*
 
 ---
 
@@ -59,7 +59,7 @@ Process Forge:
 
 ## 👥 Role-Based Access Control (RBAC)
 
-Process Forge supports four distinct demo personas:
+System Scribe supports four distinct demo personas:
 
 | Role | Demo Persona | Capabilities |
 | :--- | :--- | :--- |
@@ -73,7 +73,7 @@ Process Forge supports four distinct demo personas:
 ## 🛠️ Technology Stack
 
 - **Frontend**: React + Vite + TypeScript + Tailwind CSS (Dark Enterprise Palette: `#000000` main bg, `#52057B` surface, `#892CDC` primary accent, `#BC6FF1` light accent) + `@xyflow/react` + Recharts + Lucide Icons + Canvas Confetti.
-- **Backend**: FastAPI (Python 3.10), SQLAlchemy, Pydantic, SQLite (`process_forge.db`), multi-agent orchestrator engines, and LLM provider abstraction layer with deterministic Demo AI Mode fallback.
+- **Backend**: FastAPI (Python 3.10), SQLAlchemy, Pydantic, SQLite (`system_scribe.db`), multi-agent orchestrator engines, and LLM provider abstraction layer with deterministic Demo AI Mode fallback.
 
 ---
 
@@ -104,4 +104,4 @@ npm run dev
 ## 📜 License & Hackathon Info
 
 Developed for **Smart India Hackathon (SIH) Problem Statement SA-S03**.
-Created by team **Process Forge**.
+Created by team **System Scribe**.

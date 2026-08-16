@@ -50,8 +50,8 @@ export const Topbar: React.FC<TopbarProps> = ({
             </div>
           </div>
           <div>
-            <span className="font-extrabold tracking-wide text-lg bg-gradient-to-r from-white via-[#e2d1f7] to-[#bc6ff1] bg-clip-text text-transparent">
-              PROCESS FORGE
+            <span className="font-black tracking-wide text-lg bg-gradient-to-r from-white via-[#e2d1f7] to-[#bc6ff1] bg-clip-text text-transparent">
+              SYSTEM SCRIBE
             </span>
             <span className="ml-2 text-[10px] uppercase font-mono px-1.5 py-0.5 rounded bg-[#892cdc]/20 text-[#bc6ff1] border border-[#892cdc]/30">
               SIH SA-S03

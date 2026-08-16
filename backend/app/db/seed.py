@@ -16,7 +16,7 @@ def seed_db():
         db.close()
         return
         
-    print("Seeding Process Forge demo database...")
+    print("Seeding System Scribe demo database...")
     
     # 1. Organization
     org = Organization(name="Indian Institute of Technology & Science", code="IITS-SIH")

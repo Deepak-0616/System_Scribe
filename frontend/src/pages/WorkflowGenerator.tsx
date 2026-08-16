@@ -58,7 +58,7 @@ export const WorkflowGenerator: React.FC<WorkflowGeneratorProps> = ({ onWorkflow
           </span>
         </h1>
         <p className="text-xs text-gray-400 mt-1">
-          Type an administrative process requirement in natural language. Process Forge synthesizes structured DAG workflow nodes, assigns AI agents, configures SLAs, and checks institutional compliance.
+          Type an administrative process requirement in natural language. System Scribe synthesizes structured DAG workflow nodes, assigns AI agents, configures SLAs, and checks institutional compliance.
         </p>
       </div>
 

@@ -18,7 +18,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onExplore, onViewDemo 
             </div>
           </div>
           <span className="font-black tracking-wider text-xl bg-gradient-to-r from-white via-[#e2d1f7] to-[#bc6ff1] bg-clip-text text-transparent">
-            PROCESS FORGE
+            SYSTEM SCRIBE
           </span>
         </div>
 
@@ -72,7 +72,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onExplore, onViewDemo 
             onClick={onExplore}
             className="px-8 py-4 rounded-xl font-bold text-sm forge-btn-primary flex items-center gap-3 text-white shadow-xl cursor-pointer"
           >
-            <span>Explore Process Forge</span>
+            <span>Explore System Scribe</span>
             <ArrowRight className="w-5 h-5" />
           </button>
           <button
@@ -100,7 +100,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onExplore, onViewDemo 
                 Traditional workflow systems stop at <span className="text-gray-400 font-semibold">Build → Execute → Monitor</span>.
               </p>
               <div className="p-4 rounded-xl bg-[#130726] border border-[#892cdc]/40 text-sm font-semibold text-[#bc6ff1]">
-                Process Forge Architecture:
+                System Scribe Architecture:
                 <div className="text-white mt-1 font-mono text-xs font-bold tracking-wide">
                   Understand → Build → Simulate → Execute → Predict → Explain → Learn → Optimize
                 </div>
@@ -139,7 +139,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onExplore, onViewDemo 
         <div className="text-center mb-12">
           <h2 className="text-3xl font-extrabold mb-3 text-white">Specialized Multi-Agent AI Core</h2>
           <p className="text-sm text-gray-400 max-w-2xl mx-auto">
-            Process Forge uses task-scoped autonomous agents communicating through structured state transitions.
+            System Scribe uses task-scoped autonomous agents communicating through structured state transitions.
           </p>
         </div>
 
@@ -169,7 +169,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onExplore, onViewDemo 
       <footer className="border-t border-[#892cdc]/20 py-8 px-6 text-center text-xs text-gray-500">
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
           <div>
-            <span className="font-bold text-gray-300">Process Forge Platform</span> — Smart India Hackathon SA-S03 Prototype
+            <span className="font-bold text-gray-300">System Scribe Platform</span> — Smart India Hackathon SA-S03 Prototype
           </div>
           <div className="flex items-center gap-6 text-gray-400">
             <span>Educational Domain</span>

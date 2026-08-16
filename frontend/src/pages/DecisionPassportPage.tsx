@@ -162,7 +162,7 @@ export const DecisionPassportPage: React.FC<DecisionPassportPageProps> = ({ appl
             <Lock className="w-3.5 h-3.5 text-purple-400" />
             <span>Cryptographic Immutable Log Hash: sha256_9f8e7d6a5b4c3b2a1...</span>
           </div>
-          <span>System: Process Forge Core v3.2</span>
+          <span>System: System Scribe Core v3.2</span>
         </div>
       </div>
     </div>

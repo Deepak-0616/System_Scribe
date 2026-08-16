@@ -81,7 +81,7 @@ export const CopilotDrawer: React.FC<CopilotDrawerProps> = ({ isOpen, onClose, u
         ...prev,
         {
           sender: 'ai',
-          text: 'Process Forge AI Copilot is currently operating in offline state.',
+          text: 'System Scribe AI Copilot is currently operating in offline state.',
           timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
         },
       ]);

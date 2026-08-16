@@ -508,7 +508,7 @@ export const apiService = {
       return res.data;
     } catch {
       return {
-        answer: `Process Forge Intelligence Response: Based on your role (${user_role}), all active institutional workflows are operating at 94.6% efficiency. 1,284 tasks were automated by AI agents this month.`,
+        answer: `System Scribe Intelligence Response: Based on your role (${user_role}), all active institutional workflows are operating at 94.6% efficiency. 1,284 tasks were automated by AI agents this month.`,
         evidence_sources: ['Institutional Command Center', 'Audit Logs'],
       };
     }
